@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/https://github.com/danielbercea/goit-react-hw-07-phonebook/static/css/main.b5beaff7.css",
-    "main.js": "/https://github.com/danielbercea/goit-react-hw-07-phonebook/static/js/main.efe63503.js",
-    "static/media/phone.jpg": "/https://github.com/danielbercea/goit-react-hw-07-phonebook/static/media/phone.fe7518a115a4a8a2f4a2.jpg",
-    "index.html": "/https://github.com/danielbercea/goit-react-hw-07-phonebook/index.html",
-    "main.b5beaff7.css.map": "/https://github.com/danielbercea/goit-react-hw-07-phonebook/static/css/main.b5beaff7.css.map",
-    "main.efe63503.js.map": "/https://github.com/danielbercea/goit-react-hw-07-phonebook/static/js/main.efe63503.js.map"
+    "main.css": "/goit-react-hw-07-phonebook/static/css/main.1a8c6045.css",
+    "main.js": "/goit-react-hw-07-phonebook/static/js/main.67cb7ace.js",
+    "static/media/phone.jpg": "/goit-react-hw-07-phonebook/static/media/phone.fe7518a115a4a8a2f4a2.jpg",
+    "index.html": "/goit-react-hw-07-phonebook/index.html",
+    "main.1a8c6045.css.map": "/goit-react-hw-07-phonebook/static/css/main.1a8c6045.css.map",
+    "main.67cb7ace.js.map": "/goit-react-hw-07-phonebook/static/js/main.67cb7ace.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5beaff7.css",
-    "static/js/main.efe63503.js"
+    "static/css/main.1a8c6045.css",
+    "static/js/main.67cb7ace.js"
   ]
 }
